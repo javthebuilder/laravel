@@ -46,7 +46,7 @@
  <body>
 
 @include('inc.navbar')
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <div class="container">
   @yield('content')
 </div>
