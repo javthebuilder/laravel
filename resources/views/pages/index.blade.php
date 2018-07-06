@@ -22,10 +22,10 @@
           {{-- <img src="la.jpg" alt="Los Angeles" style="width:100%;"> --}}
           {{-- {{ HTML::image('img/CO01.jpg', 'alt text', array('class' => 'css-class')) }} --}}
           {{-- {!! Html::image('img/CO01.jpg') !!} --}}
-          <img src="/img/CO01.jpg" class="css-class" alt="alt text"  style="width:100%;">
+          <img src="/img/CO28.jpg" class="css-class" alt="alt text"  style="width:100%;">
           <div class="carousel-caption">
-            <h3>Dota 2</h3>
-            <p>Morph Upgrade!</p>
+            <h3>Tom Clancy's Ghost Recon</h3>
+            <p><b>BECOME A GHOST</b></p>
           </div>
         </div>
 
