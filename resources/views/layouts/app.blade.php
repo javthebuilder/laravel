@@ -63,7 +63,12 @@
  $( ".navbar-toggle" ).click(function() {
    console.log( "Handler for .click() called." );
  });
+ $("#goHome").click(function(){
+   console.log("Go Home");
+   $("#myNavbar").collapse('hide');
 
+
+ });
  </script>
  </body>
  </html>

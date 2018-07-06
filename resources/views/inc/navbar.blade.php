@@ -59,7 +59,7 @@
 
       <br>
       <ul class="nav navbar-nav navbar-right">
-        <li class=""><a href="/" id="">Home</a></li>
+        <li class=""><a href="/" id="goHome">Home</a></li>
         <li class=""><a href="/partnerlist" id="">Partner List</a></li>
         <li class=""><a href="/wheretobuy" id="">Where to Buy</a></li>
         <li class=""><a href="/faq" id="">FAQ</a></li>
