@@ -47,7 +47,7 @@
         </div>
         <div class="item">
           {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
-          <img src="/img/CO04.jpg" class="css-class" alt="alt text"  style="width:100%;">
+          <img src="/img/CO07.jpg" class="css-class" alt="alt text"  style="width:100%;">
           <div class="carousel-caption">
             <h3>New Cars for Dirt</h3>
             <p>Test it now</p>
