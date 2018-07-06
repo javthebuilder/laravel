@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-
+<br>
   <div class="container">
       {{-- <h2>Carousel Example</h2> --}}
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -91,7 +91,7 @@
         <p><a class="btn btn-primary btn-lg" href="/login" role="button">Login</a> <a class="btn btn-success btn-lg" href="/register" role="button">Register</a></p>
 
     </div>
-<br>
+
 
 
 @endsection
