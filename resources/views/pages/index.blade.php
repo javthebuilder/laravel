@@ -38,8 +38,8 @@
           {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
           <img src="/img/CO03.jpg" class="css-class" alt="alt text"  style="width:100%;">
           <div class="carousel-caption">
-            <h3>New York</h3>
-            <p>We love the Big Apple!</p>
+            <h3>Spidey is Back !</h3>
+            <p>New Game Next Quarter</p>
           </div>
         </div>
         <div class="item">
@@ -54,16 +54,16 @@
           {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
           <img src="/img/CO05.jpg" class="css-class" alt="alt text"  style="width:100%;">
           <div class="carousel-caption">
-            <h3>New York</h3>
-            <p>We love the Big Apple!</p>
+            <h3>New Cars for Dirt</h3>
+            <p>Test it now</p>
           </div>
         </div>
         <div class="item">
           {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
           <img src="/img/CO06.jpg" class="css-class" alt="alt text"  style="width:100%;">
           <div class="carousel-caption">
-            <h3>New York</h3>
-            <p>We love the Big Apple!</p>
+            <h3>LOL schedule update</h3>
+            <p>New XP rate at the jungle</p>
           </div>
         </div>
 
