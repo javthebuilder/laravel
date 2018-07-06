@@ -46,24 +46,24 @@
           {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
           <img src="/img/CO04.jpg" class="css-class" alt="alt text"  style="width:100%;">
           <div class="carousel-caption">
-            <h3>New York</h3>
-            <p>We love the Big Apple!</p>
-          </div>
-        </div>
-        <div class="item">
-          {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
-          <img src="/img/CO05.jpg" class="css-class" alt="alt text"  style="width:100%;">
-          <div class="carousel-caption">
             <h3>New Cars for Dirt</h3>
             <p>Test it now</p>
           </div>
         </div>
         <div class="item">
           {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
-          <img src="/img/CO06.jpg" class="css-class" alt="alt text"  style="width:100%;">
+          <img src="/img/CO05.jpg" class="css-class" alt="alt text"  style="width:100%;">
           <div class="carousel-caption">
             <h3>LOL schedule update</h3>
             <p>New XP rate at the jungle</p>
+          </div>
+        </div>
+        <div class="item">
+          {{-- <img src="ny.jpg" alt="New York" style="width:100%;"> --}}
+          <img src="/img/CO06.jpg" class="css-class" alt="alt text"  style="width:100%;">
+          <div class="carousel-caption">
+            <h3>RE-Vive Cabal?</h3>
+            <p>Plan to revive the Old Cabal</p>
           </div>
         </div>
 
