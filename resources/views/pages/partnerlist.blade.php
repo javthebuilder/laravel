@@ -112,33 +112,34 @@
       <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/NMET.png" alt="axn"></div>
       <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/PLDT.jpg" alt="axn">
         <div class="overlay">
-          <div class="text">Hello World</div>
+          <div class="text"></div>
         </div>
       </div>
 
       <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/GLB.png" alt="axn">
         <div class="overlay">
-          <div class="text">Hello World</div>
+          <div class="text"></div>
         </div>
       </div>
       <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/ROBINSON.jpg" alt="axn">
         <div class="overlay">
-          <div class="text">Hello World</div>
+          <div class="text"></div>
         </div>
       </div>
       <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/SMART.png" alt="axn">
         <div class="overlay">
-          <div class="text">Hello World</div>
+          <div class="text"></div>
         </div></div>
       <div class="col-md-6" align="center">
           <img class="img-responsive" src="/images/partners/TP.png" alt="axn">
           <div class="overlay">
-            <div class="text">Hello World</div>
+            <div class="text"></div>
           </div>
       </div>
 
     </div>
   </div>
+
 
 
 @endsection
