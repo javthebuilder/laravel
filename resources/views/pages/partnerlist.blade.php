@@ -90,23 +90,33 @@
 </div> --}}
 <div class="container-fluid">
     <div class="row" >
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/7E.png" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/AX.jpg" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/Cebuana.jpg" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/D5.jpg" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/OP.jpg" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/WU.png" alt="axn"></div>
+      <div class="col-md-2" align="center"><img class="img-responsive" src="/images/partners/7E.png" alt="axn"></div>
+      <div class="col-md-2" align="center"><img class="img-responsive" src="/images/partners/AX.jpg" alt="axn"></div>
+      <div class="col-md-2" align="center"><img class="img-responsive" src="/images/partners/Cebuana.jpg" alt="axn"></div>
+      <div class="col-md-2" align="center"><img class="img-responsive" src="/images/partners/D5.jpg" alt="axn"></div>
+      <div class="col-md-2" align="center"><img class="img-responsive" src="/images/partners/OP.jpg" alt="axn"></div>
+      <div class="col-md-2" align="center"><img class="img-responsive" src="/images/partners/WU.png" alt="axn"></div>
 
       <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/EPAY.png" alt="axn"></div>
       <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/ESPN.png" alt="axn"></div>
       <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/GMSB.png" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/GLB.png" alt="axn"></div>
+      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/PQ.jpg" alt="axn"></div>
+
+      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/SM.png" alt="axn"></div>
       <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/HTL.jpg" alt="axn"></div>
       <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/NPM.gif" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/HTA.png" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/ML.jpg" alt="axn"></div>
-      <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/NMET.png" alt="axn"></div>
       <div class="col-md-3" align="center"><img class="img-responsive" src="/images/partners/OF.jpg" alt="axn"></div>
+
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/HTA.png" alt="axn"></div>
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/ML.jpg" alt="axn"></div>
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/NMET.png" alt="axn"></div>
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/PLDT.jpg" alt="axn"></div>
+
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/GLB.png" alt="axn"></div>
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/ROBINSON.jpg" alt="axn"></div>
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/SMART.png" alt="axn"></div>
+      <div class="col-md-6" align="center"><img class="img-responsive" src="/images/partners/TP.png" alt="axn"></div>
+
     </div>
   </div>
 
