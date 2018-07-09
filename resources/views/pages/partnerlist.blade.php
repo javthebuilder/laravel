@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
       <h1>{{$title}}</h1>
-      <p>Our Partner List</p>
+      {{-- <p>Our Partner List</p> --}}
 
 {{-- <div class="w3-container">
   <h3>Mobile First Fluid Grid</h3>
@@ -90,12 +90,23 @@
 </div> --}}
 <div class="container-fluid">
     <div class="row" >
-      <div class="col-md-4" style="border:1px solid black;"><img class="img-responsive" src="/images/partners/7E.png" alt="axn"></div>
-      <div class="col-md-4" style="border:1px solid black;"><img class="img-responsive" src="/images/partners/AX.jpg" alt="axn"></div>
-      <div class="col-md-4" style="border:1px solid black;"><img class="img-responsive" src="/images/partners/Cebuana.jpg" alt="axn"></div>
-      <div class="col-md-4" style="border:1px solid black;"><img class="img-responsive" src="/images/partners/D5.jpg" alt="axn"></div>
-      <div class="col-md-4" style="border:1px solid black;"><img class="img-responsive" src="/images/partners/OP.jpg" alt="axn"></div>
-      <div class="col-md-4" style="border:1px solid black;"><img class="img-responsive" src="/images/partners/WU.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/7E.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/AX.jpg" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/Cebuana.jpg" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/D5.jpg" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/OP.jpg" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/WU.png" alt="axn"></div>
+
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/EPAY.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/ESPN.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/GMSB.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/GLB.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/HTL.jpg" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/NPM.gif" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/HTA.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/ML.jpg" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/NMET.png" alt="axn"></div>
+      <div class="col-md-4" align="center"><img class="img-responsive" src="/images/partners/OF.jpg" alt="axn"></div>
     </div>
   </div>
 
