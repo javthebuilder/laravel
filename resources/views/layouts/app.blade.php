@@ -59,11 +59,18 @@
   transition: .5s ease;
   background-color: #008CBA;
 }
-
+.col-md-2:hover .overlay {
+  opacity: 0.5;
+}
+.col-md-3:hover .overlay {
+  opacity: 0.5;
+}
+.col-md-4:hover .overlay {
+  opacity: 0.5;
+}
 .col-md-6:hover .overlay {
   opacity: 0.5;
 }
-
 .text {
   color: white;
   font-size: 20px;
@@ -74,184 +81,27 @@
   -ms-transform: translate(-50%, -50%);
   text-align: center;
 }
-/*
-body {
-margin: 0;
-font-family: Arial, Helvetica, sans-serif;
-background: #333;
-color: #fff;
-font-size: 1.1em;
-line-height: 1.5;
-text-align: center;
+.col-md-2{
+  /* border-style: solid;
+  border-width: 1px; */
+}
+.col-md-3{
+  /* border-style: solid;
+  border-width: 1px; */
+}
+.col-md-4{
+  /* border-style: solid;
+  border-width: 1px; */
+
+}
+.col-md-6{
+  /* border-style: solid;
+  border-width: 1px; */
+  width: auto; /* or whatever width you want. */
+  max-width:auto; /* or whatever width you want. */
+
 }
 
-img {
-display: block;
-width: 100%;
-height: auto;
-}
-
-h1,
-h2,
-h3 {
-margin: 0;
-padding: 1em 0;
-}
-
-p {
-margin: 0;
-padding: 1em 0;
-}
-
-.btn {
-display: inline-block;
-background: #333;
-color: #fff;
-text-decoration: none;
-padding: 1em 2em;
-border: 1px solid #666;
-margin: 0.5em 0;
-}
-
-.btn:hover {
-background: #eaeaea;
-color: #333;
-}
-
-/* Header Showcase */
-
-#showcase {
-min-height: 450px;
-color: #fff;
-text-align: center;
-}
-
-#showcase .bg-image {
-position: absolute;
-background: #333
-  url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-width: 100%;
-height: 450px;
-z-index: -1;
-opacity: 0.4;
-}
-
-#showcase h1 {
-padding-top: 100px;
-padding-bottom: 0;
-}
-
-#showcase .content-wrap,
-#section-a .content-wrap {
-padding: 0 1.5em;
-}
-
-/* Section A */
-
-#section-a {
-background: #eaeaea;
-color: #333;
-padding-bottom: 2em;
-}
-
-/* Section B */
-
-#section-b {
-padding: 2em 1em 1em;
-}
-
-#section-b ul {
-list-style: none;
-margin: 0;
-padding: 0;
-}
-
-#section-b li {
-margin-bottom: 1em;
-background: #fff;
-color: #333;
-}
-
-.card-content {
-padding: 1.5em;
-}
-
-/* Section C */
-
-#section-c {
-background: #fff;
-color: #333;
-padding: 2em;
-}
-
-/* Section D / Boxes */
-
-#section-d .box {
-padding: 2em;
-color: #fff;
-}
-
-#section-d .box:first-child {
-background: #2690d4;
-}
-#section-d .box:nth-child(2) {
-    background: red;
-}
-
-/* Footer */
-
-#main-footer {
-padding: 2em;
-background: #000;
-color: #fff;
-text-align: center;
-}
-
-#main-footer a {
-color: #2690d4;
-text-decoration: none;
-}
-
-/* Media Queries */
-
-@media (min-width: 700px) {
-.grid {
-  display: grid;
-  grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
-}
-
-#section-a .content-text {
-  columns: 2;
-  column-gap: 2em;
-}
-
-#section-a .content-text p {
-  padding-top: 0;
-}
-
-.content-wrap,
-#section-b ul {
-  grid-column: 2/4;
-}
-
-.box,
-#main-footer div {
-  grid-column: span 2;
-}
-
-#section-b ul {
-  display: flex;
-  justify-content: space-around;
-}
-
-#section-b li {
-  width: 31%;
-}
-}
-*/
    </style>
 
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
