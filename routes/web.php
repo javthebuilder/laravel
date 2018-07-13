@@ -37,6 +37,12 @@ Route::get('/faq', 'PagesController@faq');
 Route::get('/about', 'PagesController@about');
 Route::get('/contactus', 'PagesController@contactus');
 Route::get('/services', 'PagesController@services');
+
+Route::resource('posts','PostController');
 // Route::get('/about', function(){
 //   return view('pages.about');
 // });
+
+Auth::routes();
+
+Route::get('/dashboard', 'DashboardController@index');
