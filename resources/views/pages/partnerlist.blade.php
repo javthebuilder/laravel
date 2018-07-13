@@ -1,7 +1,8 @@
 @extends('layouts.app')
 @section('content')
 
-      <h1>{{$title}}</h1>
+      <h2>{{$title}}</h2>
+      <hr>
       {{-- <p>Our Partner List</p> --}}
 
 {{-- <div class="w3-container">
