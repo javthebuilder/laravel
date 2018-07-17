@@ -29,8 +29,8 @@
       <img class="card-img-top" src="/images/areas/convience_1600x777.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">Convenience Store</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <p class="card-text">If it feels like there is a convenience store on just about every corner, that’s because there is.</p>
+        <a href="#" class="btn btn-primary">Check store loacations</a>
       </div>
     </div>
   </div>
@@ -39,9 +39,9 @@
     <div class="card">
       <img class="card-img-top" src="/images/areas/netcafe_1600x777.jpg" alt="Card image cap">
       <div class="card-body">
-        <h5 class="card-title">Interne Cafes</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Internet Cafes</h5>
+        <p class="card-text">Top of the line Gaming Gears. Fast Internet Access. </p>
+        <a href="#" class="btn btn-primary">See our Internet Cafes</a>
       </div>
     </div>
   </div>
@@ -76,8 +76,8 @@
       <img class="card-img-top" src="/images/areas/kiosk_1600x777.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">Kiosks</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <p class="card-text">Easy Access on public areas and convient on people who are always on the go.</p>
+        <a href="#" class="btn btn-primary">See the locations</a>
       </div>
     </div>
   </div>
@@ -87,11 +87,13 @@
       <img class="card-img-top" src="/images/areas/vending_1600x777.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">Vending Machine</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <p class="card-text">Also located on public areas specially on publc transport sites</p>
+        <a href="#" class="btn btn-primary">Se the locations</a>
       </div>
     </div>
 </div>
+
+
 
 <hr>
 {{-- <div class="container"> --}}
